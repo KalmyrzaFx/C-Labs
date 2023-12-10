@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\LAB 15\LAB 15\bin\Debug\LAB 15.exe.config
+C:\Users\user\source\repos\LAB 15\LAB 15\bin\Debug\LAB 15.exe
+C:\Users\user\source\repos\LAB 15\LAB 15\bin\Debug\LAB 15.pdb
+C:\Users\user\source\repos\LAB 15\LAB 15\obj\Debug\LAB 15.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LAB 15\LAB 15\obj\Debug\LAB_15.Form1.resources
+C:\Users\user\source\repos\LAB 15\LAB 15\obj\Debug\LAB_15.Properties.Resources.resources
+C:\Users\user\source\repos\LAB 15\LAB 15\obj\Debug\LAB 15.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LAB 15\LAB 15\obj\Debug\LAB 15.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LAB 15\LAB 15\obj\Debug\LAB 15.exe
+C:\Users\user\source\repos\LAB 15\LAB 15\obj\Debug\LAB 15.pdb

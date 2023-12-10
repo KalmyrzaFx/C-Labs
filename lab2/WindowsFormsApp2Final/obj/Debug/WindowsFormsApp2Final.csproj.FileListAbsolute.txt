@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\WindowsFormsApp2Final\WindowsFormsApp2Final\bin\Debug\WindowsFormsApp2Final.exe.config
+C:\Users\user\source\repos\WindowsFormsApp2Final\WindowsFormsApp2Final\bin\Debug\WindowsFormsApp2Final.exe
+C:\Users\user\source\repos\WindowsFormsApp2Final\WindowsFormsApp2Final\bin\Debug\WindowsFormsApp2Final.pdb
+C:\Users\user\source\repos\WindowsFormsApp2Final\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp2Final\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp2Final\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp2Final\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp2Final\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp2Final\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.exe
+C:\Users\user\source\repos\WindowsFormsApp2Final\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.pdb
+C:\Users\user\Desktop\Labs\lab 2\WindowsFormsApp2Final\bin\Debug\WindowsFormsApp2Final.exe.config
+C:\Users\user\Desktop\Labs\lab 2\WindowsFormsApp2Final\bin\Debug\WindowsFormsApp2Final.exe
+C:\Users\user\Desktop\Labs\lab 2\WindowsFormsApp2Final\bin\Debug\WindowsFormsApp2Final.pdb
+C:\Users\user\Desktop\Labs\lab 2\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Labs\lab 2\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.Form1.resources
+C:\Users\user\Desktop\Labs\lab 2\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.Properties.Resources.resources
+C:\Users\user\Desktop\Labs\lab 2\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Labs\lab 2\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Labs\lab 2\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.exe
+C:\Users\user\Desktop\Labs\lab 2\WindowsFormsApp2Final\obj\Debug\WindowsFormsApp2Final.pdb
